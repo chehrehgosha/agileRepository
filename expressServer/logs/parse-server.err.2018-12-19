@@ -1,0 +1,8 @@
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-12-19T07:28:32.645Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-12-19T07:28:32.646Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-12-19T07:34:54.493Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-12-19T07:34:54.493Z"}
+{"error":{"code":206,"message":"Insufficient auth to delete user"},"level":"error","message":"Error handling request: ParseError { code: 206, message: 'Insufficient auth to delete user' }","timestamp":"2018-12-19T07:36:23.163Z"}
+{"code":206,"message":"Insufficient auth to delete user","level":"error","timestamp":"2018-12-19T07:36:23.164Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-12-19T07:44:20.841Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-12-19T07:44:20.842Z"}
